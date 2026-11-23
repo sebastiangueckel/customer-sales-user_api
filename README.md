@@ -1,6 +1,6 @@
 # Customer & Order API
 
-Das vorliegende Repo ist ein Python-basiertes Backend-Projekt zur Entwicklung und Integration einer REST API mit auf FastAPI. Das Projekt dient als persönliche Weiterbildung und das Kennenlernen von Schnittstellenentwicklung und verbindet eine lokal ausgeführte PostgreSQL-Datenbank mit einer externen REST API.
+Das vorliegende Repo ist ein Python-basiertes Backend-Projekt zur Entwicklung und Integration einer REST API basierend auf FastAPI. Das Projekt dient als persönliche Weiterbildung und das Kennenlernen von Schnittstellenentwicklung und verbindet eine lokal ausgeführte PostgreSQL-Datenbank mit einer externen REST API.
 
 Ziel ist es, die Grundlagen einer strukturierten Backend-Architektur praktisch umzusetzen. Das umfasst die Bereitstellung eigener API-Endpunkte über die Datenbankintegration bis hin zum Konsum externer APIs.
 
